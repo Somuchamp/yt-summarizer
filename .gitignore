@@ -1,0 +1,11 @@
+# Ignore virtual environment and model cache
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.cache/
+transformers_cache/
+*.log
+.DS_Store
